@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="29"
+   height="29.000008"
+   id="svg3107"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="rsa.svg"
+   inkscape:export-filename="/home/sade/Desktop/net-game/images/buildings/rsa.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3109" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="40.520834"
+     inkscape:cy="15.052198"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1311"
+     inkscape:window-height="744"
+     inkscape:window-x="55"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata3112">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-331.84075,-863.72034)">
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3001"
+       d="m 346.92373,871.48388 c 1.23233,3.30718 1.32969,6.60924 1.37065,9.85544 -0.0956,3.00628 -0.16759,6.01549 -0.42552,8.99899 -0.24067,2.20656 0.59496,1.47931 -4.15612,1.89569 0,0 4.04872,-0.5453 4.04872,-0.5453 l 0,0 c -4.89439,0.93052 -4.08884,1.5112 -4.06788,-0.75054 0.066,-2.98423 0.10385,-5.97198 0.19677,-8.9527 -0.018,-3.242 -0.1145,-6.51684 -1.0068,-9.82015 0,0 4.04017,-0.6814 4.04017,-0.6814 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/sade/Desktop/screw-comps/images/buildings/rsa.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3001-9"
+       d="m 359.09548,888.43831 c -2.3568,1.58987 -4.72942,2.23134 -7.06283,2.81627 -2.16323,0.43023 -4.32819,0.88063 -6.47783,1.17146 -1.59073,0.17345 -1.05346,0.74766 -1.43442,-3.14802 0,0 0.4616,3.28747 0.4616,3.28747 l 0,0 c -0.75311,-3.9281 -1.1568,-3.15709 0.46983,-3.52331 2.14689,-0.45119 4.29582,-0.92647 6.44065,-1.35458 2.33078,-0.56504 4.68382,-1.20119 7.04367,-2.50651 0,0 0.55933,3.25722 0.55933,3.25722 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/sade/Desktop/screw-comps/images/buildings/rsa.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3001-9-6"
+       d="m 355.55063,883.91915 c -1.70321,1.34365 -3.39706,1.91661 -5.06192,2.44276 -1.54102,0.39669 -3.08368,0.8098 -4.61204,1.09286 -1.13007,0.1755 -0.76211,0.63068 -0.94738,-2.52822 0,0 0.25556,2.66267 0.25556,2.66267 l 0,0 c -0.44807,-3.17718 -0.75062,-2.5416 0.40906,-2.8746 1.52989,-0.41337 3.06175,-0.84637 4.58968,-1.24093 1.66257,-0.50991 3.34244,-1.07813 5.04163,-2.19053 0,0 0.32541,2.63599 0.32541,2.63599 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/sade/Desktop/screw-comps/images/buildings/rsa.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000"
+       id="path3521-4"
+       sodipodi:cx="328.57144"
+       sodipodi:cy="622.36218"
+       sodipodi:rx="34.285713"
+       sodipodi:ry="32.857143"
+       d="m 362.85715,622.36218 c 0,18.1465 -15.35023,32.85715 -34.28571,32.85715 -18.93547,0 -34.28571,-14.71065 -34.28571,-32.85715 0,-18.1465 15.35024,-32.85714 34.28571,-32.85714 16.96055,0 31.37236,11.88419 33.90217,27.95622"
+       sodipodi:start="0"
+       sodipodi:end="6.1334682"
+       sodipodi:open="true"
+       transform="matrix(0.17730894,0.03519367,-0.02675429,0.13479055,303.14262,773.32645)"
+       inkscape:export-filename="/home/sade/Desktop/screw-comps/images/buildings/rsa.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3079"
+       d="m 336.41711,865.99048 c 0.78846,-1.01835 2.06488,-1.62454 3.48234,-1.808 1.94636,-0.25194 3.89881,-0.44017 5.84821,-0.66025 3.93191,0.20692 6.7621,1.47356 9.77451,3.29831 1.49197,1.13415 3.10648,2.81731 2.29262,4.70385 -0.13897,0.32209 -0.40047,0.60571 -0.60069,0.90858 -0.3145,0.28875 -0.59654,0.60337 -0.94347,0.86628 -1.72084,1.30398 -4.03429,2.12828 -6.23029,2.6084 -0.60051,0.13129 -1.21185,0.21132 -1.81779,0.31698 -2.15088,0.24588 -4.29703,0.57811 -6.45265,0.73763 -2.02684,0.14998 -4.87123,-0.74267 -6.31114,-1.80077 -0.38174,-0.28051 -0.67887,-0.6295 -1.0183,-0.94424 -1.34056,-1.65269 -1.71033,-3.63298 -0.82519,-5.62518 0.1673,-0.37649 0.41328,-0.73043 0.61989,-1.09565 1.1565,-1.61459 2.659,-2.60586 4.51938,-3.63181 0,0 4.61183,-0.21315 4.61183,-0.21315 l 0,0 c -1.84531,0.95244 -3.34631,1.88843 -4.55762,3.41659 -0.20927,0.34292 -0.45643,0.67388 -0.62777,1.02878 -0.90668,1.87802 -0.52313,3.72751 0.81545,5.25424 0.33811,0.2874 0.63611,0.60991 1.0143,0.8622 1.24568,0.83103 2.89295,1.30374 4.5124,1.47836 0.58917,0.0635 2.28787,-0.22952 1.79041,0.0743 -0.77302,0.47211 -1.84486,0.34822 -2.7673,0.52233 0.60504,-0.0924 1.21451,-0.15959 1.81509,-0.27706 2.68691,-0.52553 5.3514,-1.52387 7.33682,-3.18985 0.20827,-0.25907 0.4775,-0.49409 0.62483,-0.7772 0.91017,-1.74896 -1.05145,-3.31007 -2.40272,-4.27567 -2.9188,-1.66957 -5.84766,-2.98913 -9.6073,-3.08976 1.03358,-0.18819 2.07187,-0.3536 3.10075,-0.56457 0.39047,-0.0801 -0.79408,0.0875 -1.18363,0.17148 -1.00075,0.21571 -1.86118,0.68696 -2.5078,1.35916 0,0 -4.30518,0.34567 -4.30518,0.34567 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/sade/Desktop/screw-comps/images/buildings/rsa.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

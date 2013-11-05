@@ -1,0 +1,24 @@
+EDGES: [1,2] [2,3] [3,0] [2,0] [3,4] [4,5] [5,6] [6,7] [7,4] [8,9] [3,8]
+CORE_EDGES: [1,a] [5,d] [5,e] [8,b] [8,c]
+
+AS 0 0-3 a
+AS 1 4-7 d e
+AS 2 8-9 b c
+
+MAP 10 10
+-	a	-	-	-	b	c	-	-	-
+-	-	-	-	-	8	-	-	-	-
+-	1	-	-	-	-	9	-	-	-
+2	-	3	-	-	-	-	-	-	-
+-	0	-	-	-	-	-	-	-	-
+-	-	-	-	-	-	-	d	-	-
+-	-	-	-	4	-	5	-	-	-
+-	-	-	-	-	-	-	e	-	-
+-	-	-	-	7	-	6	-	-	-
+-	-	-	-	-	-	-	-	-	-
+ENDMAP
+
+PLAYER 0 CPU,a Server,1 BufferOverflow,2 Firewall,3
+PLAYER 1 CPU,d Server,5 DOS,5 DOS,6
+
+AI 1

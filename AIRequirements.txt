@@ -1,0 +1,23 @@
+Information that the AI needs: 
+
+- Number of troops the human player currently has.
+- Number of CPUs available to the human player.
+- The "Research Level" or the aspects of research available to the human player.
+- Types of troops that the human player is allowed to build.
+- (Bool) Has the human player pinged an AS containing any AI unit.
+- (Bool) Is the human player attacking any of the AI's Troops.
+- Number of troops currently losing health [AI], [Human]
+- Have access to the location of every troop on the board, regardless of visibility.
+- The health of every unit that is on the board. 
+- The number of free slots available to send units, and which of those slots are in human player territory (visibility)
+- Access to the game timer, if there is a time limit on any level of our game. If not, then disregard this.
+
+AI States
+
+- Initial
+- Waiting
+- Scanning 
+- Researching
+- Attacking
+- Building
+- Defending

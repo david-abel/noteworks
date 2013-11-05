@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="105.86"
+   height="31.071329"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="/home/sade/Desktop/net-game/images/menus/unit_action_menu.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="66.794207"
+     inkscape:cy="53.935788"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1311"
+     inkscape:window-height="744"
+     inkscape:window-x="55"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-118.76304,-412.5052)">
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3963"
+       d="m 121.51869,414.46761 c 0.2278,2.19462 0.30162,4.41043 0.40254,6.61747 0.1766,4.35555 0.17777,8.71656 0.38399,13.07045 0.19114,2.54998 0.37607,5.1268 0.91184,7.61471 0.13795,0.48321 0.0594,0.2832 0.20918,0.61343 0,0 -2.73415,0.11969 -2.73415,0.11969 l 0,0 c -0.0852,-0.38079 -0.0402,-0.15878 -0.12529,-0.66874 -0.35195,-2.53406 -0.4888,-5.10628 -0.63369,-7.66567 -0.14806,-4.35443 -0.13756,-8.71672 -0.42501,-13.06378 -0.16227,-2.19056 -0.27694,-4.42284 -0.74506,-6.55785 0,0 2.75565,-0.0798 2.75565,-0.0798 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/sade/Desktop/net-game/images/menus/action_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3963-3"
+       d="m 207.76334,415.34178 c -7.00803,0.16342 -14.0427,0.16781 -21.05664,0.20036 -13.83606,0.041 -27.64323,-0.0986 -41.48172,-0.027 -8.12346,0.11425 -16.33026,0.22128 -24.34782,0.69197 -1.56615,0.12626 -0.9123,0.052 -1.99715,0.19532 0,0 0.34008,-2.81576 0.34008,-2.81576 l 0,0 c 1.22799,-0.0754 0.51325,-0.0361 2.15014,-0.10728 8.11535,-0.28015 16.29496,-0.33786 24.43604,-0.40423 13.82494,-0.0117 27.63312,0.13991 41.47139,-0.0154 6.97795,-0.0962 14.07548,-0.14205 20.95797,-0.55456 0,0 -0.47229,2.8366 -0.47229,2.8366 z"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-16.661451"
+       inkscape:transform-center-y="5.7032765"
+       inkscape:export-filename="/home/sade/Desktop/net-game/images/menus/action_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3963-3-4"
+       d="m 208.97608,442.51597 c -6.96881,0.16343 -13.96411,0.16782 -20.93881,0.20036 -13.75863,0.041 -27.48854,-0.0986 -41.24961,-0.0271 -8.07799,0.11426 -16.23889,0.22128 -24.21158,0.69197 -1.55739,0.12626 -0.90718,0.0521 -1.98597,0.19533 0,0 0.33818,-2.81577 0.33818,-2.81577 l 0,0 c 1.22112,-0.0754 0.51038,-0.0361 2.1381,-0.10727 8.06994,-0.28015 16.20379,-0.33787 24.29932,-0.40424 13.74756,-0.0117 27.4785,0.13991 41.23933,-0.0154 6.9389,-0.0962 13.9967,-0.14205 20.84068,-0.55456 0,0 -0.46964,2.83661 -0.46964,2.83661 z"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-16.568214"
+       inkscape:transform-center-y="5.7031891"
+       inkscape:export-filename="/home/sade/Desktop/net-game/images/menus/action_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3963-5"
+       d="m 207.91717,413.09898 c 0.20336,2.2127 0.26929,4.44677 0.35938,6.67199 0.15765,4.39146 0.1587,8.78841 0.3428,13.17816 0.17065,2.57099 0.33576,5.16905 0.81407,7.67746 0.12316,0.4872 0.0531,0.28554 0.18676,0.61849 0,0 -2.44098,0.12065 -2.44098,0.12065 l 0,0 c -0.0761,-0.38394 -0.0358,-0.16009 -0.11187,-0.67424 -0.3142,-2.55495 -0.43639,-5.14837 -0.56574,-7.72886 -0.13219,-4.39031 -0.12281,-8.78855 -0.37943,-13.17143 -0.14488,-2.20861 -0.24726,-4.45929 -0.66518,-6.61188 0,0 2.46019,-0.0803 2.46019,-0.0803 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/sade/Desktop/net-game/images/menus/action_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3963-3-7"
+       d="m 155.30152,371.72831 c -3.08531,0.21038 -6.18233,0.21604 -9.27025,0.25794 -6.09135,0.0528 -12.16998,-0.12689 -18.26241,-0.0348 -3.57637,0.14708 -7.18944,0.28486 -10.71918,0.89082 -0.68951,0.16254 -0.40165,0.0669 -0.87926,0.25145 0,0 0.14972,-3.6249 0.14972,-3.6249 l 0,0 c 0.54065,-0.0971 0.22597,-0.0465 0.94661,-0.13811 3.57282,-0.36066 7.17389,-0.43495 10.75801,-0.5204 6.08647,-0.015 12.16556,0.18012 18.25788,-0.0199 3.07206,-0.12386 6.19677,-0.18287 9.22681,-0.71392 0,0 -0.20793,3.65172 -0.20793,3.65172 z"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-7.3352428"
+       inkscape:transform-center-y="7.3420929"
+       inkscape:export-filename="/home/sade/Desktop/net-game/images/menus/action_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3963-3-4-7"
+       d="m 154.8407,406.71126 c -2.98961,0.2104 -5.99056,0.21604 -8.9827,0.25793 -5.90243,0.0528 -11.79253,-0.1269 -17.696,-0.0349 -3.46544,0.14709 -6.96644,0.28487 -10.38671,0.89082 -0.66813,0.16254 -0.38918,0.067 -0.85199,0.25146 0,0 0.14507,-3.62491 0.14507,-3.62491 l 0,0 c 0.52387,-0.0971 0.21896,-0.0465 0.91725,-0.1381 3.46199,-0.36065 6.9514,-0.43496 10.42436,-0.5204 5.89768,-0.015 11.78821,0.18011 17.6916,-0.0199 2.97676,-0.12386 6.00454,-0.18287 8.94061,-0.71393 0,0 -0.20149,3.65175 -0.20149,3.65175 z"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-7.1077327"
+       inkscape:transform-center-y="7.3419954"
+       inkscape:export-filename="/home/sade/Desktop/net-game/images/menus/action_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3963-3-6"
+       d="m 115.70825,407.33676 c -0.0546,-2.95514 0.0959,-5.91161 0.20974,-8.86112 0.25436,-5.81691 0.74027,-11.61048 0.95545,-17.43031 0.0334,-3.42083 0.078,-6.87624 -0.34929,-10.27467 -0.12757,-0.66599 -0.0466,-0.38662 -0.2068,-0.85139 0,0 3.61274,0.31756 3.61274,0.31756 l 0,0 c 0.0697,0.52075 0.035,0.21794 0.0902,0.91023 0.18008,3.42774 0.0727,6.86863 -0.0226,10.2939 -0.29187,5.8104 -0.79321,11.60367 -0.90059,17.42861 -0.0312,2.93832 -0.12977,5.92379 0.24785,8.84164 0,0 -3.63659,-0.37443 -3.63659,-0.37443 z"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="7.6265443"
+       inkscape:transform-center-y="6.6479279"
+       inkscape:export-filename="/home/sade/Desktop/net-game/images/menus/action_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1"
+       id="path3963-3-6-3"
+       d="m 151.92004,405.59809 c -0.0546,-2.95514 0.0959,-5.91161 0.20974,-8.86112 0.25436,-5.81691 0.74027,-11.61048 0.95545,-17.43031 0.0334,-3.42083 0.078,-6.87624 -0.34929,-10.27467 -0.12757,-0.66599 -0.0466,-0.38662 -0.2068,-0.85139 0,0 3.61274,0.31756 3.61274,0.31756 l 0,0 c 0.0697,0.52075 0.035,0.21794 0.0902,0.91023 0.18008,3.42774 0.0727,6.86863 -0.0226,10.2939 -0.29187,5.8104 -0.79321,11.60367 -0.90059,17.42861 -0.0312,2.93832 -0.12977,5.92379 0.24785,8.84164 0,0 -3.63659,-0.37443 -3.63659,-0.37443 z"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="7.6265443"
+       inkscape:transform-center-y="6.6479279"
+       inkscape:export-filename="/home/sade/Desktop/net-game/images/menus/action_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       d="m 119.29978,398.1734 c 0.0928,-3.35776 0.33518,-8.74876 0.53858,-11.98001 0.20341,-3.23125 0.37095,-7.63577 0.37231,-9.78783 l 0.002,-3.91284 2.8125,-0.14737 c 1.54688,-0.0811 8.91563,-0.18007 16.375,-0.22003 l 13.5625,-0.0727 -1.7e-4,3.88287 c -1e-4,2.13557 -0.16733,6.75161 -0.37164,10.25786 -0.2043,3.50625 -0.47976,8.77867 -0.61213,11.71647 -0.13237,2.93781 -0.30624,5.40705 -0.38638,5.48719 -0.0801,0.0801 -7.20148,0.2204 -15.82519,0.31169 -8.62372,0.0913 -15.89484,0.25681 -16.15805,0.36782 -0.46646,0.19674 -0.47429,0.0475 -0.3098,-5.90316 l 0,0 z"
+       id="path3024"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/sade/Desktop/net-game/images/menus/action_button.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

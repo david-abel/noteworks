@@ -1,0 +1,33 @@
+EDGES: [0,1] [0,3] [1,2] [2,3] [3,4] [4,6] [4,5] [5,7] [6,7] [4,9] [8,9]
+CORE_EDGES: [1,a] [1,b] [5,c] [5,d] [9,e]
+
+AS 0 0-3 a b
+AS 1 4-7 c d
+AS 2 8-9 e
+
+# width and height of map
+MAP 8 16
+-	-	-	-	-	-	-	-	-
+-	-	a	-	-	-	-	-	-
+-	-	-	-	b	-	-	-	-
+-	-	-	1	-	-	-	-	-
+-	-	-	-	-	-	-	-	-
+-	0	-	-	2	-	-	-	-
+-	-	-	-	-	-	-	-	-
+-	-	-	3	-	-	-	-	-
+-	-	-	-	-	6	-	-	-
+-	-	-	-	-	-	-	-	-
+-	-	-	-	4	-	-	7	-
+-	-	-	-	-	-	-	-	-
+-	-	-	-	-	5	-	-	-
+-	8	9	-	-	-	-	d	-
+-	-	e	-	-	-	c	-	-
+-	-	-	-	-	-	-	-	-
+ENDMAP
+
+
+PLAYER 0 CPU,a Server,1 Ping,3, PingOfDeath,3
+PLAYER 1 CPU,d Server,7 DOS,5 DOS,5
+PLAYER 2 CPU,e Server,9
+
+AI 1

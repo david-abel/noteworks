@@ -1,0 +1,30 @@
+EDGES: [1,2] [2,3] [3,4] [1,4] [4,5] [6,7] [7,9] [5,7] [8,7] [10,5] [10,8]
+CORE_EDGES: [1,a] [10,b]
+
+AS 0 1-4 a b 
+AS 1 5-10
+
+# width and height of map
+MAP 9 9
+-	-	-	-	-	-	-	-	-	
+-	-	-	-	-	-	-	b	-	
+-	a	-	-	-	-	-	-	-	
+-	-	1	-	-	-	10	-	-	
+-	2	-	4	-	5	-	8	-	
+-	-	3	-	-	-	7	-	-	
+-	-	-	-	-	6	-	9	-	
+-	-	-	-	-	-	-	-	-
+-	-	-	-	-	-	-	-	-
+ENDMAP
+
+PLAYER 0 CPU,a Server,1 Ping,2
+PLAYER 1 CPU,b Server,10
+
+
+STARTRESEARCH 0
+STARTRESEARCH 1
+
+#these players are AI
+AI 1
+
+AVAILRESEARCH RPortScanner RPingResearch

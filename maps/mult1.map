@@ -1,0 +1,46 @@
+EDGES: [0,1] [0,3] [1,2] [2,3] [4,5] [6,5] [7,5] [8,5] [8,9] [6,9] [2,7] [3,10] [3,25] [10,11] [10,13] [11,12] [12,13] [14,15] [16,15] [17,15] [18,19] [16,19] [12,17] [0,20] [1,20] [0,21] [3,21] [11,22] [22,23] [7,25] [25,26] [26,29] [26,27] [27,28] [28,30] [17,34] [17,31] [33,18] [33,32] [14,35] [23,24]
+CORE_EDGES: [1,a] [2,b] [9,c] [9,d] [13,e] [13,f] [19,k] [19,g] [20,h] [9,i] [13,j]
+
+AS 0 0-3 20-21 a b h
+AS 1 4-9 25-30 c d i
+AS 2 10-13 22-24 e f j
+AS 3 14-19 31-35 g k
+
+# width and height of map
+MAP 16 19
+-	-	-	-	-	-	-	-	4	-	-	-	6	-	d	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	i	-	c
+-	-	-	h	-	-	-	-	-	-	5	-	-	-	9	-
+-	20	-	-	a	b	-	-	7	-	-	-	8	-	-	28
+-	-	-	-	1	-	-	-	-	-	-	-	-	-	-	-
+-	-	-	-	-	-	-	-	-	25	-	-	-	-	27	-
+-	-	0	-	-	2	-	-	-	-	-	-	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	26	-	-	-	30
+-	-	-	-	3	-	-	-	-	-	-	-	-	29	-	-
+-	21	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+-	-	-	-	10	-	-	-	-	-	-	-	-	-	-	-
+-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+-	-	11	-	-	12	-	-	34	-	-	-	-	33	-	-
+-	-	-	-	-	-	-	-	-	-	31	-	-	-	-	-
+-	-	-	-	13	-	-	-	-	-	-	-	-	-	32	-
+-	22	-	-	e	f	-	-	17	-	-	-	18	-	-	-
+-	-	23	-	-	j	-	-	-	-	15	-	-	-	19	k
+-	-	-	-	-	-	-	-	14	-	-	-	16	-	g	-
+-	-	-	-	24	-	35	-	-	-	-	-	-	-	-	-
+ENDMAP
+
+
+PLAYER 0 CPU,a Server,0 PingOfDeath,3 PingOfDeath,3 DOS,12 DOS,20 DOS,20 DOS,20 Handshake,21 BufferOverflow,20 DNSPoison,2
+PLAYER 1 CPU,d Server,9 
+PLAYER 2 CPU,e Server,13 
+PLAYER 3 CPU,g Server,19 DOS,2 DOS,2 DOS,18 DOS,18 Ping,31 DOS,17 Ping,35 DOS,14 DOS,14 DOS,14 DOS,14 Ping,35 Ping,35 Ping,35 Ping,33 Ping,33
+
+STARTRESEARCH 0
+STARTRESEARCH 1
+STARTRESEARCH 2
+STARTRESEARCH 3
+
+#these players are AI
+AI 3
+
+AVAILRESEARCH RPortScanner RPingResearch
